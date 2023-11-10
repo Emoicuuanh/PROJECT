@@ -1,5 +1,4 @@
 import nn
-2
 
 
 class PerceptronModel(object):
